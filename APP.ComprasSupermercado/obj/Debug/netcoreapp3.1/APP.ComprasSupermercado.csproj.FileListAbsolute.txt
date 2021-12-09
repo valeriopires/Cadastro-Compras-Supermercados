@@ -1,0 +1,13 @@
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\bin\Debug\netcoreapp3.1\APP.ComprasSupermercado.exe
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\bin\Debug\netcoreapp3.1\APP.ComprasSupermercado.deps.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\bin\Debug\netcoreapp3.1\APP.ComprasSupermercado.runtimeconfig.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\bin\Debug\netcoreapp3.1\APP.ComprasSupermercado.runtimeconfig.dev.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\bin\Debug\netcoreapp3.1\APP.ComprasSupermercado.dll
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\bin\Debug\netcoreapp3.1\APP.ComprasSupermercado.pdb
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\obj\Debug\netcoreapp3.1\APP.ComprasSupermercado.csprojAssemblyReference.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\obj\Debug\netcoreapp3.1\APP.ComprasSupermercado.AssemblyInfoInputs.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\obj\Debug\netcoreapp3.1\APP.ComprasSupermercado.AssemblyInfo.cs
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\obj\Debug\netcoreapp3.1\APP.ComprasSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\obj\Debug\netcoreapp3.1\APP.ComprasSupermercado.dll
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\obj\Debug\netcoreapp3.1\APP.ComprasSupermercado.pdb
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Solução de Problemas com .NET\SoluçãoOtimizada\APP.ComprasSupermercado\obj\Debug\netcoreapp3.1\APP.ComprasSupermercado.genruntimeconfig.cache
